@@ -1,0 +1,10 @@
+C:\Users\student\source\repos\R09546014YLHungAss02\R09546014YLHungAss02\bin\Debug\R09546014YLHungAss02.exe.config
+C:\Users\student\source\repos\R09546014YLHungAss02\R09546014YLHungAss02\bin\Debug\R09546014YLHungAss02.exe
+C:\Users\student\source\repos\R09546014YLHungAss02\R09546014YLHungAss02\bin\Debug\R09546014YLHungAss02.pdb
+C:\Users\student\source\repos\R09546014YLHungAss02\R09546014YLHungAss02\obj\Debug\R09546014YLHungAss02.csprojAssemblyReference.cache
+C:\Users\student\source\repos\R09546014YLHungAss02\R09546014YLHungAss02\obj\Debug\R09546014YLHungAss02.Properties.Resources.resources
+C:\Users\student\source\repos\R09546014YLHungAss02\R09546014YLHungAss02\obj\Debug\R09546014YLHungAss02.csproj.GenerateResource.cache
+C:\Users\student\source\repos\R09546014YLHungAss02\R09546014YLHungAss02\obj\Debug\R09546014YLHungAss02.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\R09546014YLHungAss02\R09546014YLHungAss02\obj\Debug\R09546014YLHungAss02.exe
+C:\Users\student\source\repos\R09546014YLHungAss02\R09546014YLHungAss02\obj\Debug\R09546014YLHungAss02.pdb
+C:\Users\student\source\repos\R09546014YLHungAss02\R09546014YLHungAss02\obj\Debug\R09546014YLHungAss02.Mainform.resources

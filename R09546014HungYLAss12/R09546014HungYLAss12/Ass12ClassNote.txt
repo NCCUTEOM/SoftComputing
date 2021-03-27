@@ -1,0 +1,3 @@
+weight[][][]
+
+從weight[1][][]開始new，weight[0][][]是虛擬的

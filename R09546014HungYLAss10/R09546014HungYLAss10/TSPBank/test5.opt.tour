@@ -1,0 +1,11 @@
+NAME : tsp225.opt.tour
+TYPE : TOUR
+COMMENT : Optimal solution for tsp225 (3919)
+DIMENSION :4
+TOUR_SECTION
+ 1    
+ 2   
+ 4  
+3
+-1
+ EOF

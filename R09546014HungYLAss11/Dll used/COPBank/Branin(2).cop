@@ -1,0 +1,26 @@
+Title: Branin(2)
+Type: Minimization
+Dimension: 2
+LowerBoundsUpperBounds: Enumerate
+-10 10
+-10 10
+NumberOfOptimalSolution: 5
+1 0
+0.1487 0.40209
+0.40254 0.28741
+1.59746 -0.28741
+1.8513 -0.40209
+BestObjectiveValue: 0
+NumberOfLinkedAssemblies: 0
+CodingLanguage: CSharp
+GlobalDefinition: 
+
+InitiationFunction: 
+
+ObjectiveFunction: 
+double xx = x[0] * x[0], yy = x[1] * x[1];
+double t1 = 1.0 - 2.0 * x[1] + 0.05 * Math.Sin( 4.0 * Math.PI * x[1] ) - x[0];
+double t2 = x[1] - 0.5 * Math.Sin( 2.0 * Math.PI * x[0] );
+objective =  t1 * t1 + t2 * t2;
+GradientFunction: 
+

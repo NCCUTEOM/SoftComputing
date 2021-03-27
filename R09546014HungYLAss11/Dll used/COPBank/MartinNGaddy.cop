@@ -1,0 +1,21 @@
+Title: MartinNGaddy
+Type: Minimization
+Dimension: 2
+LowerBoundsUpperBounds: Enumerate
+0 10
+0 10
+NumberOfOptimalSolution: 1
+5 5
+BestObjectiveValue: 0
+NumberOfLinkedAssemblies: 0
+CodingLanguage: CSharp
+GlobalDefinition: 
+
+InitiationFunction: 
+
+ObjectiveFunction: 
+double t1 = x[0] - x[1];
+double t2 = ( x[0] + x[1] - 10.0 ) / 3.0;
+objective = t1 * t1 + t2 * t2;
+GradientFunction: 
+

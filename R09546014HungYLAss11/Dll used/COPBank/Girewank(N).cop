@@ -1,0 +1,19 @@
+Title: Girewank(N)
+Type: Minimization
+Dimension: 2
+LowerBoundsUpperBounds: Enumerate
+-100 100
+-100 10
+NumberOfOptimalSolution: 1
+0 0
+BestObjectiveValue: 0
+NumberOfLinkedAssemblies: 0
+CodingLanguage: CSharp
+GlobalDefinition: 
+
+InitiationFunction: 
+
+ObjectiveFunction: 
+objective = (x[0] + x[1] ) / 4000 - Math.Cos( x[0] ) * x[1] + 1.0;
+GradientFunction: 
+

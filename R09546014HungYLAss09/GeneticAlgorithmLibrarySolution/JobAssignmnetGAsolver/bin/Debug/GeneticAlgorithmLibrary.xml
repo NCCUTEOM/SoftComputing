@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GeneticAlgorithmLibrary</name>
+    </assembly>
+    <members>
+        <member name="M:GeneticAlgorithmLibrary.BinaryGASolver.#ctor(System.Int32,GeneticAlgorithmLibrary.OptimizationType,GeneticAlgorithmLibrary.ObjectiveFunction{System.Byte})">
+            <summary>
+            This is the constructor of creating a binary-coded GA solver
+            </summary>
+            <param name="numberOfVariables"> Number of variables in the Optimization problem</param>
+            <param name="type">Optimizationt type maximization or minimization</param>
+            <param name="theMethod">The objective function delegate</param>
+        </member>
+    </members>
+</doc>

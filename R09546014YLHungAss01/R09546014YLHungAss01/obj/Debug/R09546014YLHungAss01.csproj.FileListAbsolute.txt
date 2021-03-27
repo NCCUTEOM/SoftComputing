@@ -1,0 +1,10 @@
+C:\Users\kphun\source\repos\R09546014YLHungAss01\R09546014YLHungAss01\bin\Debug\R09546014YLHungAss01.exe.config
+C:\Users\kphun\source\repos\R09546014YLHungAss01\R09546014YLHungAss01\bin\Debug\R09546014YLHungAss01.exe
+C:\Users\kphun\source\repos\R09546014YLHungAss01\R09546014YLHungAss01\bin\Debug\R09546014YLHungAss01.pdb
+C:\Users\kphun\source\repos\R09546014YLHungAss01\R09546014YLHungAss01\obj\Debug\R09546014YLHungAss01.csprojAssemblyReference.cache
+C:\Users\kphun\source\repos\R09546014YLHungAss01\R09546014YLHungAss01\obj\Debug\R09546014YLHungAss01.Properties.Resources.resources
+C:\Users\kphun\source\repos\R09546014YLHungAss01\R09546014YLHungAss01\obj\Debug\R09546014YLHungAss01.csproj.GenerateResource.cache
+C:\Users\kphun\source\repos\R09546014YLHungAss01\R09546014YLHungAss01\obj\Debug\R09546014YLHungAss01.csproj.CoreCompileInputs.cache
+C:\Users\kphun\source\repos\R09546014YLHungAss01\R09546014YLHungAss01\obj\Debug\R09546014YLHungAss01.exe
+C:\Users\kphun\source\repos\R09546014YLHungAss01\R09546014YLHungAss01\obj\Debug\R09546014YLHungAss01.pdb
+C:\Users\kphun\source\repos\R09546014YLHungAss01\R09546014YLHungAss01\obj\Debug\R09546014YLHungAss01.Form1.resources

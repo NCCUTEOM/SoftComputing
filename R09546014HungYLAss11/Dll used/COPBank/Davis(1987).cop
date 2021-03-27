@@ -1,0 +1,24 @@
+Title: Davis 1987
+Type: Minimization
+Dimension: 2
+LowerBoundsUpperBounds: Enumerate
+-10 10
+-10 10
+NumberOfOptimalSolution: 1
+0 0
+BestObjectiveValue: 0
+NumberOfLinkedAssemblies: 0
+CodingLanguage: CSharp
+GlobalDefinition: 
+
+
+InitiationFunction: 
+
+
+ObjectiveFunction: 
+double temp = x[0] * x[0] + x[1] * x[1];
+objective = ( Math.Sin( 50.0 * temp * temp ) + 1.0)  * Math.Pow( temp, 0.25 );
+
+GradientFunction: 
+
+

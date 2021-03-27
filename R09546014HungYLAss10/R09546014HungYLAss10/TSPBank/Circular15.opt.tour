@@ -1,0 +1,22 @@
+NAME : Circular15
+COMMENT : 15 cities evently distributed on the circomference of the origin centered circle with radius 10. Minimal Legth: 62.374
+TYPE : TOUR
+DIMENSION : 15
+TOUR_SECTION
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+-1
+EOF

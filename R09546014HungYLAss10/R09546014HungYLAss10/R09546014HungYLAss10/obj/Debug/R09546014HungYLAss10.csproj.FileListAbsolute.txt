@@ -1,0 +1,13 @@
+D:\柔性計算\R09546014HungYLAss10\R09546014HungYLAss10\bin\Debug\R09546014HungYLAss10.exe.config
+D:\柔性計算\R09546014HungYLAss10\R09546014HungYLAss10\bin\Debug\R09546014HungYLAss10.exe
+D:\柔性計算\R09546014HungYLAss10\R09546014HungYLAss10\bin\Debug\R09546014HungYLAss10.pdb
+D:\柔性計算\R09546014HungYLAss10\R09546014HungYLAss10\bin\Debug\TSPBenchmark.dll
+D:\柔性計算\R09546014HungYLAss10\R09546014HungYLAss10\bin\Debug\TSPBenchmark.xml
+D:\柔性計算\R09546014HungYLAss10\R09546014HungYLAss10\obj\Debug\R09546014HungYLAss10.csprojAssemblyReference.cache
+D:\柔性計算\R09546014HungYLAss10\R09546014HungYLAss10\obj\Debug\R09546014HungYLAss10.MainForm.resources
+D:\柔性計算\R09546014HungYLAss10\R09546014HungYLAss10\obj\Debug\R09546014HungYLAss10.Properties.Resources.resources
+D:\柔性計算\R09546014HungYLAss10\R09546014HungYLAss10\obj\Debug\R09546014HungYLAss10.csproj.GenerateResource.cache
+D:\柔性計算\R09546014HungYLAss10\R09546014HungYLAss10\obj\Debug\R09546014HungYLAss10.csproj.CoreCompileInputs.cache
+D:\柔性計算\R09546014HungYLAss10\R09546014HungYLAss10\obj\Debug\R09546014HungYLAss10.csproj.CopyComplete
+D:\柔性計算\R09546014HungYLAss10\R09546014HungYLAss10\obj\Debug\R09546014HungYLAss10.exe
+D:\柔性計算\R09546014HungYLAss10\R09546014HungYLAss10\obj\Debug\R09546014HungYLAss10.pdb

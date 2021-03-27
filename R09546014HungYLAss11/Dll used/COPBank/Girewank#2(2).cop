@@ -1,0 +1,22 @@
+Title: Girewank(2)
+Type: Minimization
+Dimension: 2
+LowerBoundsUpperBounds: Enumerate
+-2 2
+-2 2
+NumberOfOptimalSolution: 1
+1 1
+BestObjectiveValue: 0
+NumberOfLinkedAssemblies: 0
+CodingLanguage: CSharp
+GlobalDefinition: 
+
+InitiationFunction: 
+
+ObjectiveFunction: 
+double yy = x[1] * x[1];
+double t1 = x[0] -yy;
+double t2 = 1.0 - x[0];
+objective =  100.0 * t1 * t1 + t2 * t2;
+GradientFunction: 
+

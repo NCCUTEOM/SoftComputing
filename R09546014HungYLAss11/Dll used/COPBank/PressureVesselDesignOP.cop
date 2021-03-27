@@ -1,0 +1,30 @@
+Title: Pressure Vessel Design Optimization Problem
+Type: Minimization
+Dimension: 4
+LowerBoundsUpperBounds: Enumerate
+0.0625    6.1875
+0.0625   6.1875
+10.0   200.0
+10.0    200.0
+NumberOfOptimalSolution:  0
+NumberOfLinkedAssemblies: 0
+CodingLanguage: CSharp
+GlobalDefinition: 
+
+InitiationFunction: 
+
+ObjectiveFunction: 
+
+double G1 = 1.0;
+double G2 = 1.0;
+double G3 = 1.0;
+double G4 = 1.0;
+
+objective = 0.6224 * x[0] * x[2] * x[3] + 1.7781 * x[1] * x[2]  * x[2] +3.1661 * x[0] * x[0] * x[3] + 19.84 *  x[0] *  x[0] *  x[2] ;
+double g1 = -x[0] + 0.0193 * x[2];
+double g2 = -x[1] + 0.00954*x[2];
+double g3 = -Math.PI * x[2] * x[2] * x[3] * x[3] - 4 * Math.PI * x[2] * x[2] * x[2] / 3 + 1296000;
+double g4 = x[3] - 240;
+objective += G1 * g1 + G2 * g2 + G3 * g3 + G4 * g4;
+GradientFunction: 
+

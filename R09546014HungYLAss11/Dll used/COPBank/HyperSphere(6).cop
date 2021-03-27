@@ -1,0 +1,25 @@
+Title: HyperSphere(6)
+Type: Minimization
+Dimension: 6
+LowerBoundsUpperBounds: Enumerate
+-5.12 5.12
+-5.12 5.12
+-5.12 5.12
+-5.12 5.12
+-5.12 5.12
+-5.12 5.12
+NumberOfOptimalSolution: 1
+0 0 0 0 0 0
+BestObjectiveValue: 0
+NumberOfLinkedAssemblies: 0
+CodingLanguage: CSharp
+GlobalDefinition: 
+
+InitiationFunction: 
+
+ObjectiveFunction: 
+for( int i = 0; i < 6; i++ )
+ objective += x[i] * x[i];
+
+GradientFunction: 
+

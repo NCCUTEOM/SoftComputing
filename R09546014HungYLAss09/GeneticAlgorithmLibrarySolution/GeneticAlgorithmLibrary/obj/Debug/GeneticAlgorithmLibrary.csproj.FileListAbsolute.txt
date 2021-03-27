@@ -1,0 +1,13 @@
+C:\Users\student\source\GeneticAlgorithmLibrarySolution\GeneticAlgorithmLibrary\bin\Debug\GeneticAlgorithmLibrary.dll
+C:\Users\student\source\GeneticAlgorithmLibrarySolution\GeneticAlgorithmLibrary\bin\Debug\GeneticAlgorithmLibrary.pdb
+C:\Users\student\source\GeneticAlgorithmLibrarySolution\GeneticAlgorithmLibrary\obj\Debug\GeneticAlgorithmLibrary.csprojAssemblyReference.cache
+C:\Users\student\source\GeneticAlgorithmLibrarySolution\GeneticAlgorithmLibrary\obj\Debug\GeneticAlgorithmLibrary.csproj.CoreCompileInputs.cache
+C:\Users\student\source\GeneticAlgorithmLibrarySolution\GeneticAlgorithmLibrary\obj\Debug\GeneticAlgorithmLibrary.dll
+C:\Users\student\source\GeneticAlgorithmLibrarySolution\GeneticAlgorithmLibrary\obj\Debug\GeneticAlgorithmLibrary.pdb
+D:\柔性計算\GeneticAlgorithmLibrarySolution\GeneticAlgorithmLibrary\bin\Debug\GeneticAlgorithmLibrary.xml
+D:\柔性計算\GeneticAlgorithmLibrarySolution\GeneticAlgorithmLibrary\bin\Debug\GeneticAlgorithmLibrary.dll
+D:\柔性計算\GeneticAlgorithmLibrarySolution\GeneticAlgorithmLibrary\bin\Debug\GeneticAlgorithmLibrary.pdb
+D:\柔性計算\GeneticAlgorithmLibrarySolution\GeneticAlgorithmLibrary\obj\Debug\GeneticAlgorithmLibrary.csprojAssemblyReference.cache
+D:\柔性計算\GeneticAlgorithmLibrarySolution\GeneticAlgorithmLibrary\obj\Debug\GeneticAlgorithmLibrary.csproj.CoreCompileInputs.cache
+D:\柔性計算\GeneticAlgorithmLibrarySolution\GeneticAlgorithmLibrary\obj\Debug\GeneticAlgorithmLibrary.dll
+D:\柔性計算\GeneticAlgorithmLibrarySolution\GeneticAlgorithmLibrary\obj\Debug\GeneticAlgorithmLibrary.pdb

@@ -1,0 +1,17 @@
+Title: NewProblemTwo
+Type: Minimization
+Dimension: 2
+LowerBoundsUpperBounds: Enumerate
+-10 10
+-10 10
+NumberOfOptimalSolution: 0
+NumberOfLinkedAssemblies: 0
+CodingLanguage: CSharp
+GlobalDefinition: 
+
+InitiationFunction: 
+
+ObjectiveFunction: 
+objective = Math.Sin( 0.5 * x[0] ) * Math.Cos(x[1] * 0.03 );
+GradientFunction: 
+
